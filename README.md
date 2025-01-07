@@ -53,7 +53,7 @@ Education
 
 ·        _Master of Technology (MTech)_, IndustrialAutomation Control Systems, Donbas State Engineering Academy
 
-PersonalINFORMATION
+Additionally
 -------------------
 
 I'm a highly collaborative professional with a proven ability toeffectively partner with clients, setting and adjusting project goals together.I have a strong academic background and have enjoyed mentoring colleagues inIT.
