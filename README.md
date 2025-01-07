@@ -3,7 +3,7 @@
 
 WordPress & WooCommerce developer 10+ years' experience UTC +1:00 CET
 
-[+420-776-535-464](tel://+420776535464)          [tkachenko.aat@gmail.com](mailto:tkachenko.aat@gmail.com)         [LinkedIn](https://www.linkedin.com/in/andrii-tkachenko-339684277/)              [Github](https://github.com/tkachenko-aat) 
+[LinkedIn](https://www.linkedin.com/in/andrii-tkachenko-339684277/)              [Github](https://github.com/tkachenko-aat) 
 
 About
 -----
